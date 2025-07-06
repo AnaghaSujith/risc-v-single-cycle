@@ -54,8 +54,7 @@ This is a Verilog implementation of a **single-cycle RISC-V processor**, support
 ---
 
 ##  Instruction Example Output
-
-# run 1000ns
+ run 1000ns
 - Time: 0 | PC: 00000000 | instr: 00940333 | x5:          x | x6:          x | reg_write: 1
 - Time: 20000 | PC: 00000000 | instr: 00940333 | x5:          5 | x6:          6 | reg_write: 1
 - Time: 60000 | PC: 00000004 | instr: 413903b3 | x5:          5 | x6:         17 | reg_write: 1
