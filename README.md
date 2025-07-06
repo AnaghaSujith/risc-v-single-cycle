@@ -69,8 +69,8 @@ This is a Verilog implementation of a **single-cycle RISC-V processor**, support
 - Time: 420000 | PC: 00000028 | instr: 00c16613 | x5:         65 | x6:         17 | reg_write: 1
 - Time: 460000 | PC: 0000002c | instr: 0081e693 | x5:         65 | x6:         17 | reg_write: 1
 - Time: 500000 | PC: 00000030 | instr: 00205023 | x5:         65 | x6:         17 | reg_write: 0
-- **STORE:** Wrote 00000002 to addr 00000000
+ **STORE:** Wrote 00000002 to addr 00000000
 - Time: 540000 | PC: 00000034 | instr: 00310003 | x5:         65 | x6:         17 | reg_write: 1
-- **LOAD:** Read 00000002 from addr 00000000
+ **LOAD:** Read 00000002 from addr 00000000
 - Time: 580000 | PC: 00000038 | instr: 00000033 | x5:         65 | x6:         17 | reg_write: 1
-- **HALT:** Reached NOP at PC=00000038
+ **HALT:** Reached NOP at PC=00000038
