@@ -1,5 +1,4 @@
-# risc-v-single-cycle
-This project implements a synthesizable single-cycle RISC-V processor that supports a subset of RV32I instructions (R-type, I-type, and S-type). Designed entirely in Verilog, the processor executes one instruction per clock cycle and includes modules for instruction memory, data memory, register file, ALU, and control logic.
+
 #  RISC-V Single-Cycle Processor (RV32I Subset)
 
 This is a Verilog implementation of a **single-cycle RISC-V processor**, supporting core RV32I instructions (R, I, S-types), synthesized using Vivado and verified with a custom testbench.
