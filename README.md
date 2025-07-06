@@ -19,11 +19,11 @@ This is a Verilog implementation of a **single-cycle RISC-V processor**, support
 
 | Folder         | Description                                        |
 |----------------|----------------------------------------------------|
-| `src/`         | RTL files for processor core and submodules        |
-| `testbench/`   | Simulation testbench                               |
-| `sim/`         | Waveform and simulation output logs                |
-| `vivado_project/` | Vivado synthesis results and DRC screenshots     |
-| `docs/`        | Diagrams and architecture explanation              |
+| `source/`         | RTL files for processor core and submodules        |
+| `simulation_source/`   | Simulation testbench                               |
+| `simulation_results/`         | Waveform                |
+| `synthesis_reports/` | Vivado synthesis results and schematic     |
+
 
 ---
 
@@ -33,13 +33,13 @@ This is a Verilog implementation of a **single-cycle RISC-V processor**, support
 
 ![Utilization](vivado_project/screenshots/resource_utilization.png)
 
-###  Thermal Report
+###  power Report
 
-![Temperature](vivado_project/screenshots/temp_violation.png)
+![power](vivado_project/screenshots/temp_violation.png)
 
-###  DRC Errors
+###  schematic
 
-![Multiple Driver Error](vivado_project/screenshots/multiple_driver_error.png)
+![schematic](vivado_project/screenshots/multiple_driver_error.png)
 
 ---
 
