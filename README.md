@@ -31,15 +31,19 @@ This is a Verilog implementation of a **single-cycle RISC-V processor**, support
 
 ###  Resource Utilization
 
-![Utilization](vivado_project/screenshots/resource_utilization.png)
+![Utilization](risc-v-single-cycle/synthesis_reports/resource_utilisation_report.png)
 
 ###  power Report
 
-![power](vivado_project/screenshots/temp_violation.png)
+![power](risc-v-single-cycle/synthesis_reports/power_report.png)
 
 ###  schematic
 
-![schematic](vivado_project/screenshots/multiple_driver_error.png)
+![schematic](risc-v-single-cycle/synthesis_reports/schematic.png)
+
+###  device
+
+![schematic](risc-v-single-cycle/synthesis_reports/device.png)
 
 ---
 
