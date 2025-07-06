@@ -31,19 +31,19 @@ This is a Verilog implementation of a **single-cycle RISC-V processor**, support
 
 ###  Resource Utilization
 
-![Utilization](risc-v-single-cycle/synthesis_reports/resource_utilisation_report.png)
+![Utilization](synthesis_reports/resource_utilisation_report.png)
 
 ###  power Report
 
-![power](risc-v-single-cycle/synthesis_reports/power_report.png)
+![power](synthesis_reports/power_report.png)
 
 ###  schematic
 
-![schematic](risc-v-single-cycle/synthesis_reports/schematic.png)
+![schematic](synthesis_reports/schematic.png)
 
 ###  device
 
-![schematic](risc-v-single-cycle/synthesis_reports/device.png)
+![device](synthesis_reports/device.png)
 
 ---
 
